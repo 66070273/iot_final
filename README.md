@@ -41,3 +41,11 @@ sudo i2cdetect -y 1
 ถ้าเจอขึ้นแบบภาพข้างล่าง
 
 <img width="427" height="165" alt="Screenshot 2568-10-20 at 17 42 47" src="https://github.com/user-attachments/assets/6982e213-0e27-498b-ae99-501a1c3e810b" />
+
+
+# วิธีการต่อ 
+
+<img width="1052" height="699" alt="Screenshot 2568-10-20 at 17 49 27" src="https://github.com/user-attachments/assets/2191c570-bc91-468a-a568-7b8cf8204e00" />
+
+
+
